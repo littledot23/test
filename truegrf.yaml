@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f10eea3a
 license: GPL-2.0
+name: test
 type: industry
+url: https://github.com/littledot23/test
 version: 6
